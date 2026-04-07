@@ -13,6 +13,7 @@ You need to follow the rules of **AC Server** if needed so.
 8. 😈 Using mods on the Server to insanely break it is strictly prohibited.
 9. 😲 If you ever get shocked on the server, say on the chat "I'm being shocked bruh", and we'll help you by doing whatever you want to say to fix this.
     - 1️⃣ While this is optional, it's recommended to do this since this helps us improve the Server by keeping the community much safer.
+    - 2️⃣ Typing "bruh" makes you laugh, and laughing flushes the stress hormones (Cortisol/Dopac) out of your system.
 10. 🥽 If you have a VR, please do these so you can get the safest experience in the Minecraft Server:
     - 1️⃣ Reduce lag by adding the mod "Sodium".
     - 2️⃣ Install the "VR Craft" resource pack from [Modrinth](https://modrinth.com/resourcepack/vrc).
