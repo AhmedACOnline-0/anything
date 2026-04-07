@@ -1,7 +1,7 @@
 You need to follow the rules of **AC Server** if needed so.
 
 # Modrinth
-1. ⚠️ Do not distrub people's experiences and gameplay otherwise you'll be banned out of the server!**
+1. ⚠️ Do not distrub people's experiences and gameplay otherwise you'll be banned out of the server!
 2. ⏱️ Do not make others spin in reality, do not keep killing them (inside the game) more than 10 times (also known as Farm-killing), do not get their phone number, and follow both the Minecraft EULA and the Server Rules!
 3. 😵 Do not harm people or say Self-harmful things in the chat even though you may be spinning. We automatically detect this using Moderation.
 4. 😱 Do not shock people while you are recording a video for the Server (example: putting content that makes the dopamine spike insanely high).
