@@ -1,0 +1,19 @@
+{
+  "server": {
+    "name":"AC Server",
+    "ip":"ahmedacserver.falix.gg",
+    "hosted_server":"FalixNodes",
+    "id":"ss-54-32-76-18-c1=eg-c2=de",
+    "platform":"GitHub",
+    "license": {
+      "minecraft": null,
+      "github":"MIT",
+      "log": true
+    },
+    "eg":"egypt",
+    "de": [
+      "germany",
+      "server_default"
+    ]
+  }
+}
