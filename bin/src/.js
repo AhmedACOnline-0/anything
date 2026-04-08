@@ -26,3 +26,6 @@ js2.consider = "Ate a heavy plate of Makarana in 1 second";
 js2.numberDouble = 456;
 js2.create("project", "Huh");
 js2.term = "js2";
+
+// NEW: You can use the API now!
+export default js2
